@@ -1,11 +1,10 @@
 ---
-date: '2022-05-01'
-title: 'SHOPIFY Developer'
+date: '2022-07-01'
+title: 'Développeur SHOPIFY	'
 company: 'MAISON DU CAFTAN'
-location: 'Marrakech, Morocco'
-range: '“05-2022 | 07-2022”'
+location: 'Marrakech, Maroc'
+range: '“07/2022 | 09-2022”'
 url: 'https://www.maisonducaftan.com/'
 ---
 
-- Worked with a designer to build a marketing website and e-commerce platform and making a brand direction that spans both packaging and web.
-- Interfaced with clients on a weekly basis, providing technological expertise.
+- A travaillé avec un designer pour créer un site Web marketing et une plate-forme de commerce électronique et créer une direction de marque qui couvre à la fois l'emballage et le Web.

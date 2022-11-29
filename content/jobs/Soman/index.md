@@ -1,15 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'Full Stack Developer'
+date: '01/01/2020'
+title: 'Développeur Full Stack	'
 company: 'SOMAN'
-location: 'Marrakech, Morocco'
-range: '“09-2019 | 02-2022”'
+location: 'Marrakech, Maroc'
+range: '“01/2020 | 02-2022”'
 url: 'https://soman.ma/'
 ---
 
-- Developed highly interactive web solution for E-learning platform "Connect".
-- Developed highly interactive web solution for E-learning platform "Reviz".
-- Developed highly interactive web solution for Kids E-learning platform "Pixel-Junior".
-- Built a two mobile applications within IONIC framework and web application APIs for "Connect & Reviz".
-- Building, Developing, testing, debugging different apps & solution created by different technologies.
-- Tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness.
+- Développement d'une solution web hautement interactive pour la plateforme E-learning "Connect", "Reviz" et "Pixel-Junior".
+- Construction de deux applications mobiles au sein du Ionic Framework et des API d'applications web pour "Connect & Reviz" par PHP.
+- Construire, développer, tester, déboguer différentes applications et solutions créées par différentes technologies.
+- Sites testés dans divers navigateurs et appareils mobiles pour assurer la compatibilité et la réactivité entre navigateurs.

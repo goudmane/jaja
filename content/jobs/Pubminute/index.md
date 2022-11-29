@@ -1,13 +1,13 @@
 ---
-date: '2022-03-21'
-title: 'Freelancer Developer'
+date: '2021-01-01'
+title: 'Développeur Full Stack "Freelancer"'
 company: 'PUBMINUTE'
-location: 'Morocco'
-range: '“2021 - 2022”'
+location: 'Maroc'
+range: '01/2021 - Aujourd'hui”'
 url: 'https://pubminute.com/'
 ---
 
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Developed and maintained code for using PHP, HTML, CSS, Sass, JavaScript, and jQuery.
-- Built and develope many websites for defrent services by CMS Wordpress, Prestashop, Shopify.
-- Tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness.
+- Travailler avec une variété de langages, de plates-formes, de cadres et de systèmes de gestion de contenu différents tels que JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic et Netlify
+- Développement et maintenance du code pour l'utilisation de PHP, HTML, CSS, Sass, JavaScript et jQuery.
+- Construit et développé de nombreux sites web pour des services défrents par CMS Wordpress, Prestashop, Shopify.
+- Sites testés dans divers navigateurs et appareils mobiles pour assurer la compatibilité et la réactivité entre navigateurs.

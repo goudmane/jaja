@@ -1,14 +1,14 @@
 ---
-date: '2020-06-21'
-title: 'Freelancer Developer'
+date: '01/03/2019'
+title: 'Développeur "Freelancer"'
 company: 'DIGITALAB'
-location: 'Morocco'
-range: '“2020 - 2022”'
+location: 'Maroc'
+range: '“2019 - 2020”'
 url: 'https://www.digitalab.ma/'
 ---
 
-- Developed and maintained code for using PHP, HTML, CSS, Sass, JavaScript, and jQuery.
-- Réalization de plusieurs wordpress sites.
-- Built and Developed highly interactive web platform for Logistics Services "TIZLA".
-- Built and Developed highly interactive web platform for SAAS "MAWIIDI".
-- Tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness.
+- Développement et maintenance du code pour l'utilisation de PHP, HTML, CSS, Sass, JavaScript et jQuery.
+- Réalisation de plusieurs sites wordpress.
+- Construit et développé une plate-forme Web hautement interactive pour les services logistiques "TIZLA".
+- Construit et développé une plate-forme Web hautement interactive pour SAAS "MAWIIDI".
+- Sites testés sur divers navigateurs et appareils mobiles pour assurer la compatibilité et la réactivité entre navigateurs.
