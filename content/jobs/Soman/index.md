@@ -1,6 +1,6 @@
 ---
 date: '01/01/2020'
-title: 'Développeur Full Stack	'
+title: 'Développeur Full Stack'
 company: 'SOMAN'
 location: 'Marrakech, Maroc'
 range: '“01/2020 | 02-2022”'

@@ -1,6 +1,6 @@
 ---
 date: '01/03/2019'
-title: 'Développeur "Freelancer"'
+title: 'Développeur “Freelancer”'
 company: 'DIGITALAB'
 location: 'Maroc'
 range: '“2019 - 2020”'

@@ -1,6 +1,6 @@
 ---
 date: '2021-01-01'
-title: 'Développeur Full Stack "Freelancer"'
+title: 'Développeur Full Stack “Freelancer”'
 company: 'PUBMINUTE'
 location: 'Maroc'
 range: '“01/2021 - Aujourd'hui”'
