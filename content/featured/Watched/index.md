@@ -3,7 +3,7 @@ date: '1'
 title: 'Watched'
 cover: './demo.png'
 github: 'https://github.com/goudmane/Watched'
-external: '#'
+external: 'https://github.com/goudmane/Watched'
 tech:
   - React
   - Styled Components

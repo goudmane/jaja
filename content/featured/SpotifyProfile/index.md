@@ -3,7 +3,7 @@ date: '2'
 title: 'Spoofy'
 cover: './demo.png'
 github: 'https://github.com/goudmane/spoofy'
-external: '#'
+external: 'https://github.com/goudmane/spoofy'
 tech:
   - React
   - Styled Components

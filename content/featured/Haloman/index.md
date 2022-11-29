@@ -3,7 +3,7 @@ date: '3'
 title: 'Haloman'
 cover: './Haloman.png'
 github: 'https://github.com/goudmane/Haloman'
-external: '#'
+external: 'https://github.com/goudmane/Haloman'
 tech:
   - VS Code
 ---
