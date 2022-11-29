@@ -2,12 +2,13 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Goudmane Oualid v',
+    title: 'Goudmane Oualid',
     description:
       'Goudmane Oualid is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://majestic-bienenstitch-60a7c0.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@o_goudmane',
+    NickNames: 'goodman,goldman,walid,dilaw',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -150,10 +151,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      /* resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'UA-45666519-2',
-      },
+      }, */
     },
   ],
 };
