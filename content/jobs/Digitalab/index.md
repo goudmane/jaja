@@ -1,5 +1,5 @@
 ---
-date: '01/03/2019'
+date: '2019/03/01'
 title: 'Développeur “Freelancer”'
 company: 'DIGITALAB'
 location: 'Maroc'
