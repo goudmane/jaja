@@ -4,7 +4,6 @@ import styled from 'styled-components';
 import { srConfig } from '@config';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
-import { useTranslation } from "react-i18next";
 
 const StyledAboutSection = styled.section`
   max-width: 900px;
@@ -40,7 +39,7 @@ const StyledText = styled.div`
         content: '▹';
         position: absolute;
         left: 0;
-        color: var(--gold);
+        color: var(--green);
         font-size: var(--fz-sm);
         line-height: 12px;
       }
@@ -62,7 +61,7 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--gold);
+    background-color: var(--green);
 
     &:hover,
     &:focus {
@@ -106,7 +105,7 @@ const StyledPic = styled.div`
     }
 
     &:after {
-      border: 2px solid var(--gold);
+      border: 2px solid var(--green);
       top: 20px;
       left: 20px;
       z-index: -1;
@@ -126,42 +125,43 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'React', 'PHP', 'Node.js', 'WordPress' , 'Laravel' , 'Angular', 'MySQL'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">À propos de moi</h2>
+      <h2 className="numbered-heading">About Me</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-            Bonjour! Je m'appelle Oualid et j'aime créer des choses qui vivent sur Internet.
-            Mon intérêt pour le développement Web a commencé en 2015 lorsque j'ai décidé d'essayer d'éditer des thèmes
-            personnalisés et de créer des applications de console.
+              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
+              interest in web development started back in 2012 when I decided to try editing custom
+              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
+              about HTML &amp; CSS!
             </p>
 
             <p>
-              Avance rapide jusqu'à aujourd'hui, et j'ai eu le privilège de travailler dans une{' '}
-              <a href="https://www.digitalab.ma/">agence de solutions numériques</a>, en tant que freelancer et après un certain temps, j'ai obtenu un poste dans une{' '}
-              <a href="https://soman.ma">agence de solutions d'apprentissage en ligne</a>, une{' '}
-              <a href="#">start-up</a> en tant que développeur Full stack, un{' '}
-
-              <a href="https://www.maisonducaftan.com/">magazine de commerce électronique</a>en tant que Shopify développeur.
-              Mon objectif principal ces jours-ci est de créer des produits et des expériences numériques
-              accessibles et inclusifs chez <a href="https://pubminute.com/">PubMinute</a> pour une variété de clients.
+              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
+              <a href="https://starry.com/">a start-up</a>,{' '}
+              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
+              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
+              main focus these days is building accessible, inclusive products and digital
+              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
+              clients.
             </p>
 
-           {/*  <p>
+            <p>
               I also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 launched a course
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p> */}
+            </p>
 
-            <p>Voici quelques technologies avec lesquelles j'ai travaillé récemment :</p>
+            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
