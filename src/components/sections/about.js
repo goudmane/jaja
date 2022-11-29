@@ -138,29 +138,39 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">À propos de moi</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Hello! My name is Oualid and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2015 when I decided to try editing custom
-              themes — turns out hacking together a custom reblog button taught me a lot about HTML
-              &amp; CSS!
+              Bonjour! Je m'appelle Oualid et j'aime créer des choses qui vivent sur Internet. Mon
+              intérêt pour le développement Web a commencé en 2015 lorsque j'ai décidé d'essayer
+              d'éditer des thèmes personnalisés et de créer des applications de console.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://soman.ma">a e-learning solutions agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.digitalab.ma/">a digital solutions agency</a>, and{' '}
-              <a href="https://www.maisonducaftan.com/">E-commerce magazine</a>. My main focus these
-              days is building accessible, inclusive products and digital experiences at{' '}
-              <a href="https://pubminute.com/">PubMinute</a> for a variety of clients.
+              Avance rapide jusqu'à aujourd'hui, et j'ai eu le privilège de travailler dans une{' '}
+              <a href="https://www.digitalab.ma/">agence de solutions numériques</a>, en tant que
+              freelancer et après un certain temps, j'ai obtenu un poste dans une{' '}
+              <a href="https://soman.ma">agence de solutions d'apprentissage en ligne</a>, une{' '}
+              <a href="https://soman.ma">start-up</a> en tant que développeur Full stack, un{' '}
+              <a href="https://www.maisonducaftan.com/">magazine de commerce électronique</a>en tant
+              que Shopify développeur. Mon objectif principal ces jours-ci est de créer des produits
+              et des expériences numériques accessibles et inclusifs chez{' '}
+              <a href="https://pubminute.com/">PubMinute</a> pour une variété de clients.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            {/*  <p>
+              I also recently{' '}
+              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
+                launched a course
+              </a>{' '}
+              that covers everything you need to build a web app with the Spotify API using Node
+              &amp; React.
+            </p> */}
+
+            <p>Voici quelques technologies avec lesquelles j'ai travaillé récemment :</p>
           </div>
 
           <ul className="skills-list">

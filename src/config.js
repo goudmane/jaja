@@ -33,10 +33,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
+    /* {
       name: 'Work',
       url: '/#projects',
-    },
+    }, */
     {
       name: 'Contact',
       url: '/#contact',

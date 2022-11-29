@@ -59,20 +59,20 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>Salut, je m'appelle</h1>;
   const two = <h2 className="big-heading">Goudmane Oualid.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">Je crée des application web.</h3>;
   const four = (
     <>
       <p>
-        I’m a Full Stack Developer specializing in building exceptional web solutions. Currently,
-        I’m focused on Node.js frameworks .
+        Je suis un développeur Full Stack spécialisé dans la création de solutions Web
+        exceptionnelles. Actuellement, je me concentre sur Node.js frameworks.
       </p>
     </>
   );
   const five = (
     <a className="email-link" href={`mailto:${email}`}>
-      Say Hello
+      Dis bonjour
     </a>
   );
 
