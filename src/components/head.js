@@ -19,6 +19,7 @@ const Head = ({ title, description, image }) => {
             siteUrl
             defaultImage: image
             twitterUsername
+            NickNames
           }
         }
       }
@@ -31,6 +32,7 @@ const Head = ({ title, description, image }) => {
     siteUrl,
     defaultImage,
     twitterUsername,
+    NickNames,
   } = site.siteMetadata;
 
   const seo = {
@@ -38,6 +40,7 @@ const Head = ({ title, description, image }) => {
     description: description || defaultDescription,
     image: `${siteUrl}${image || defaultImage}`,
     url: `${siteUrl}${pathname}`,
+    NickNames: NickNames,
   };
 
   return (
