@@ -1,6 +1,6 @@
 ---
 date: '2022-07-01'
-title: 'Développeur SHOPIFY	'
+title: 'Développeur SHOPIFY'
 company: 'MAISON DU CAFTAN'
 location: 'Marrakech, Maroc'
 range: '“07/2022 | 09-2022”'
