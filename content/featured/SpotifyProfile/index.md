@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Spoofy'
 cover: './demo.png'
 github: 'https://github.com/goudmane/spoofy'
-external: ''
+external: '#'
 tech:
   - React
   - Styled Components
