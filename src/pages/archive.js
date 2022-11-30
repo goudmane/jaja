@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import { graphql } from 'gatsby';
+/* import { graphql } from 'gatsby'; */
 import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import styled from 'styled-components';
@@ -242,7 +242,7 @@ ArchivePage.propTypes = {
 
 export default ArchivePage;
 
-export const pageQuery = graphql`
+/* export const pageQuery = graphql`
   {
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/content/projects/" } }
@@ -266,3 +266,4 @@ export const pageQuery = graphql`
     }
   }
 `;
+ */
