@@ -10,7 +10,7 @@ const StyledAboutSection = styled.section`
 
   .inner {
     display: grid;
-    grid-template-columns: 3fr 2fr;
+    grid-template-columns: 5fr 2fr;
     grid-gap: 50px;
 
     @media (max-width: 768px) {
@@ -49,6 +49,7 @@ const StyledText = styled.div`
 const StyledPic = styled.div`
   position: relative;
   max-width: 300px;
+  margin-top: 50px;
 
   @media (max-width: 768px) {
     margin: 50px auto 0;
