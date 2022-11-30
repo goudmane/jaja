@@ -6,22 +6,22 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/goudmane',
     },
-    {
+    /* {
       name: 'Instagram',
       url: 'https://www.instagram.com/goudmane',
-    },
+    }, */
     {
       name: 'Twitter',
-      url: 'https://twitter.com/goudmane',
+      url: 'https://twitter.com/o_goudmane',
     },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/goudmane',
     },
-    {
+    /* {
       name: 'Codepen',
       url: 'https://codepen.io/goudmane',
-    },
+    }, */
   ],
 
   navLinks: [
@@ -33,10 +33,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    /* {
+    {
       name: 'Work',
       url: '/#projects',
-    }, */
+    },
     {
       name: 'Contact',
       url: '/#contact',

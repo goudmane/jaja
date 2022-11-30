@@ -6,7 +6,7 @@ import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAboutSection = styled.section`
-  max-width: 900px;
+  max-width: 1000px;
 
   .inner {
     display: grid;
@@ -153,12 +153,18 @@ const About = () => {
               Avance rapide jusqu'à aujourd'hui, et j'ai eu le privilège de travailler dans une{' '}
               <a href="https://www.digitalab.ma/">agence de solutions numériques</a>, en tant que
               freelancer et après un certain temps, j'ai obtenu un poste dans une{' '}
-              <a href="https://soman.ma">agence de solutions d'apprentissage en ligne</a>, une{' '}
-              <a href="https://soman.ma">start-up</a> en tant que développeur Full stack, un{' '}
-              <a href="https://www.maisonducaftan.com/">magazine de commerce électronique</a>en tant
-              que Shopify développeur. Mon objectif principal ces jours-ci est de créer des produits
-              et des expériences numériques accessibles et inclusifs chez{' '}
-              <a href="https://pubminute.com/">PubMinute</a> pour une variété de clients.
+              <a href="https://soman.ma">agence de solutions d'apprentissage en ligne</a>, dans
+              cette période grâce à l'ingénieur senior là-bas, j'apprends beaucoup de choses.
+              entre-temps, j'ai trouvé un meilleur poste en tant que freelance chez{' '}
+              <a href="https://pubminute.com/">PubMinute</a> jusqu'à aujourd'hui, la plupart du
+              temps de ma carrière, j'ai travaillé à temps plein et en freelance en même temps.
+              Après cela j'ai pris mission chez <a href="https://allyouneed-rh.fr/">start-up</a> en
+              tant que développeur Full stack, pour construire une application web pour bnb. jusqu'à
+              ma dernière mission <a href="https://www.maisonducaftan.com/">MDC</a> de coder l'UI
+              comme maquette créée par le designer pour le magasin artisanal de la marque
+              internationale en tant que Shopify développeur. Mon objectif principal ces jours-ci
+              est de créer des produits et des expériences numériques accessibles et inclusifs chez{' '}
+              pour une variété de clients.
             </p>
 
             {/*  <p>
